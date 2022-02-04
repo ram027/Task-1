@@ -10,5 +10,8 @@ module.exports = {
     },
     "rules": {
         "semi": ["error", "always"],
+        // "prefer-const": "error",
+        // "no-const-assign": "error",
+        // "no-var": "error",      
     }
 };
